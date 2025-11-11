@@ -8,9 +8,14 @@
  - **Nickname** : Prapai *(You can also call me Vane, Noshika)*
  - **Education** : Year 2 *(Grade 11)* Student studying computer engineering at KOSEN-KMITL
  - **Contacts** : nontrattanapittayaporn@gmail.com *(or Instagram Direct Message)*
-
+ 
 # Social Profile <img src="meowmeow.gif" width="50" />
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-silleh.silleh-f672ff?style=plastic&labelColor=black&logo=instagram)](https://www.instagram.com/silleh.silleh/)
 [![Reddit](https://img.shields.io/badge/REDDIT-noshika0127-ff5900?style=plastic&labelColor=black&logo=reddit)](https://www.reddit.com/user/noshika0127/)
 ![Discord](https://img.shields.io/badge/DISCORD-noshika12%232045-blue?style=plastic&labelColor=black&logo=discord)
 [![Letterboxd](https://img.shields.io/badge/LETTERBOXD-noshika0127-beff00?style=plastic&labelColor=black&logo=letterboxd)](https://boxd.it/cOa6R)
+
+# Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=wildflowerlol&theme=nord&show_icons=true&hide_border=true&count_private=false)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wildflowerlol&theme=nord&hide_border=true)
