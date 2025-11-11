@@ -5,7 +5,7 @@
 
 # About Me
  - **Name** : Nont Rattanapittayaporn
- - **Nickname** : Prapai *(You can also call me Vane, Noshika)*
+ - **Nickname** : Prapai *(You can also call me Vane, Noshika or Wildflower)*
  - **Education** : Year 2 *(Grade 11)* Student studying computer engineering at KOSEN-KMITL
  - **Contacts** : nontrattanapittayaporn@gmail.com *(or Instagram Direct Message)*
  
