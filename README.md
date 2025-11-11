@@ -1,9 +1,16 @@
 <div align="center">
-  <img src="HEADER.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="GithubBanner.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
 </div>
 
-# Social Profiles <img src="meowmeow.gif" width="50" />
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/silleh.silleh/)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/noshika0127/)
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-202830?logo=letterboxd&logoColor=fff&style=for-the-badge)](https://boxd.it/cOa6R)
+# About Me
+ - **Name** : Nont Rattanapittayaporn
+ - **Nickname** : Prapai *(You can also call me Vane, Noshika)*
+ - **Education** : Year 2 *(Grade 11)* Student studying computer engineering at KOSEN-KMITL
+ - **Contacts** : nontrattanapittayaporn@gmail.com *(or Instagram Direct Message)*
+
+# Social Profile <img src="meowmeow.gif" width="50" />
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-silleh.silleh-f672ff?style=plastic&labelColor=black&logo=instagram)](https://www.instagram.com/silleh.silleh/)
+[![Reddit](https://img.shields.io/badge/REDDIT-noshika0127-ff5900?style=plastic&labelColor=black&logo=reddit)](https://www.reddit.com/user/noshika0127/)
+![Discord](https://img.shields.io/badge/DISCORD-noshika12%232045-blue?style=plastic&labelColor=black&logo=discord)
+[![Letterboxd](https://img.shields.io/badge/LETTERBOXD-noshika0127-beff00?style=plastic&labelColor=black&logo=letterboxd)](https://boxd.it/cOa6R)
