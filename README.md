@@ -7,7 +7,7 @@
  - **Name** : Nont Rattanapittayaporn
  - **Nickname** : Prapai *(You can also call me Vane, Noshika or Wildflower)*
  - **Education** : Year 2 *(Grade 11)* Student studying computer engineering at KOSEN-KMITL
- - **Contacts** : nontrattanapittayaporn@gmail.com *(or Instagram Direct Message)*
+ - **Contacts** : <a href="mailto:nontrattanapittayaporn@gmail.com">Personal Email</a> / <a href="mailto:67991042@kmitl.ac.th">School Email</a> *(or Instagram Direct Message)*
  
 # Social Profile <img src="meowmeow.gif" width="50" />
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-silleh.silleh-f672ff?style=plastic&labelColor=black&logo=instagram)](https://www.instagram.com/silleh.silleh/)
