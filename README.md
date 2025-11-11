@@ -17,4 +17,5 @@
 
 # Stats
 
-
+![Stats](https://github-readme-stats.vercel.app/api?username=wildflowerlol&theme=nord&show_icons=true&hide_border=true&count_private=false)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wildflowerlol&theme=nord&hide_border=true)
