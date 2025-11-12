@@ -6,15 +6,20 @@
 # About Me
  - **Name** : Nont Rattanapittayaporn
  - **Nickname** : Prapai *(You can also call me Vane, Noshika or Wildflower)*
+ - **Hobbies** : Listening to music, Watching movies and Writing
  - **Education** : Year 2 *(Grade 11)* Student studying Computer Engineering at [KOSEN-KMITL](http://www.kosen.kmitl.ac.th/en)
+ - **Human Langauge** : ไทย, English, 日本語
+ - **Programming Langauge** : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="20"/> <img src="https://img.icons8.com/color/512/c-programming.png" width="20" title="I'm learning C !" />
  - **Contacts** : <a href="mailto:nontrattanapittayaporn@gmail.com">Personal Email</a> / <a href="mailto:67991042@kmitl.ac.th">School Email</a> *(or Instagram Direct Message)*
 
  
  
-# Social Profile <img src="meowmeow.gif" width="50" />
+# Social Profile <img src="meowmeow.gif" width="50" title="Meow!" />
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-silleh.silleh-f672ff?style=plastic&labelColor=21201e&logo=instagram)](https://www.instagram.com/silleh.silleh/)
 [![Reddit](https://img.shields.io/badge/REDDIT-noshika0127-ff5900?style=plastic&labelColor=21201e&logo=reddit)](https://www.reddit.com/user/noshika0127/)
-![Discord](https://img.shields.io/badge/DISCORD-noshika12%232045-blue?style=plastic&labelColor=21201e&logo=discord)
+<img src="https://img.shields.io/badge/DISCORD-noshika12%232045-blue?style=plastic&labelColor=21201e&logo=discord" 
+     alt="Discord" 
+     title="For discord, add me by the given username!" />
 [![Letterboxd](https://img.shields.io/badge/LETTERBOXD-kokorononaka-78c922?style=plastic&labelColor=21201e&logo=letterboxd)](https://boxd.it/cOa6R)
 
 # Stats
