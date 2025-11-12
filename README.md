@@ -24,5 +24,4 @@
 # Stats <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f635_200d_1f4ab/512.gif" width="40" />
 
 ![wildflowerlol's Stats](https://github-readme-stats.vercel.app/api?username=wildflowerlol&theme=nord&show_icons=true&hide_border=true&count_private=false)
-![wildflowerlol's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wildflowerlol&theme=nord&hide_border=true)
 
