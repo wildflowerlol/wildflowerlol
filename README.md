@@ -1,4 +1,5 @@
-[![Wildflowerlol](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=40&duration=3500&pause=1500&color=2F80F7B5&center=true&multiline=true&width=1000&height=100&lines=Hello+Welcome!;It's+Wildflowerlol+%3A3)](https://git.io/typing-svg)
+<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?backgroundOpacity=0&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Hello%2C+Welcome%21%5CnIt%27s+Wildflowerlol+%3A3%22%2C%22font%22%3A%22Jersey+10%22%2C%22color%22%3A%22%234a90f8%22%2C%22fontSize%22%3A35%2C%22typingSpeed%22%3A0.125%2C%22deleteSpeed%22%3A0.06666666666666667%7D%5D" width="1000" alt="Typing SVG" title="Hewo! It's Wildflowerlol :3 " /></a>
+
 
 # About Me
  - **Name** : Nont Rattanapittayaporn
