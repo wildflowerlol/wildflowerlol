@@ -8,9 +8,9 @@
  - **Education** : Year 2 *(Grade 11)* Student studying Computer Engineering at [KOSEN-KMITL](http://www.kosen.kmitl.ac.th/en)
  - **Human Language** : ไทย, English, 日本語
  - **Programming Language** : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="20"/> <img src="https://img.icons8.com/color/512/c-programming.png" width="20" title="I'm learning C !" />
+ - **Other Skills** : Photography, Photo Editing <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1200px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="20"/>
  - **Contacts** : <a href="mailto:nontrattanapittayaporn@gmail.com">Personal Email</a> / <a href="mailto:67991042@kmitl.ac.th">School Email</a> *(or Instagram Direct Message)*
 
- 
  
 # Social Profile <img src="meowmeow.gif" width="45" title="Meow!" />
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-silleh.silleh-f672ff?style=plastic&labelColor=21201e&logo=instagram)](https://www.instagram.com/silleh.silleh/)
@@ -19,6 +19,7 @@
      alt="Discord" 
      title="For discord, add me by the given username!" />
 [![Letterboxd](https://img.shields.io/badge/LETTERBOXD-kokorononaka-78c922?style=plastic&labelColor=21201e&logo=letterboxd)](https://boxd.it/cOa6R)
+[![Tiktok](https://img.shields.io/badge/Tiktok-Music%20Review%20%7C%20I%20did%20with%20my%20friends-e155c7?style=plastic&labelColor=21201e&logo=tiktok)](https://www.tiktok.com/@ratingbytheoomfs)
 
 
 # Stats <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f635_200d_1f4ab/512.gif" width="40" />
