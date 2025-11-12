@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="GithubBanner.png" style="max-width: 100%;" alt="Welcome to Wildflowerlol's Github Profile" />
-
-</div>
+[![Wildflowerlol](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=40&duration=3500&pause=1500&color=2F80F7B5&center=true&multiline=true&width=1000&height=100&lines=Hello+Welcome!;It's+Wildflowerlol+%3A3)](https://git.io/typing-svg)
 
 # About Me
  - **Name** : Nont Rattanapittayaporn
