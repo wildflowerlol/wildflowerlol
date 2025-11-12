@@ -6,8 +6,8 @@
  - **Nickname** : Prapai *(You can also call me Vane, Noshika or Wildflower)*
  - **Hobbies** : Listening to music, Watching movies and Writing
  - **Education** : Year 2 *(Grade 11)* Student studying Computer Engineering at [KOSEN-KMITL](http://www.kosen.kmitl.ac.th/en)
- - **Human Langauge** : ไทย, English, 日本語
- - **Programming Langauge** : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="20"/> <img src="https://img.icons8.com/color/512/c-programming.png" width="20" title="I'm learning C !" />
+ - **Human Language** : ไทย, English, 日本語
+ - **Programming Language** : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="20"/> <img src="https://img.icons8.com/color/512/c-programming.png" width="20" title="I'm learning C !" />
  - **Contacts** : <a href="mailto:nontrattanapittayaporn@gmail.com">Personal Email</a> / <a href="mailto:67991042@kmitl.ac.th">School Email</a> *(or Instagram Direct Message)*
 
  
