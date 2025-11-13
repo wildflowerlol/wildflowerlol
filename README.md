@@ -8,7 +8,7 @@
  - **Education** : Year 2 *(Grade 11)* Student studying Computer Engineering at [KOSEN-KMITL](http://www.kosen.kmitl.ac.th/en)
  - **Human Language** : ไทย, English, 日本語
  - **Programming Language** : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="20"/> <img src="https://img.icons8.com/color/512/c-programming.png" width="20" title="I'm learning C !" />
- - **Other Skills** : Photography, Photo Editing <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1200px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="20"/>
+ - **Other Skills** : Photography, Photo Editing <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1200px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="20" title="Lightroom"/>
  - **Contacts** : <a href="mailto:nontrattanapittayaporn@gmail.com">Personal Email</a> / <a href="mailto:67991042@kmitl.ac.th">School Email</a> *(or Instagram Direct Message)*
 
  
