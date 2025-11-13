@@ -4,7 +4,7 @@
 # About Me <img src="italy-veneziano-hetalia-flapping-arms.gif" width="60" title="Hetalia Rise! " />
  - **Name** : Nont Rattanapittayaporn
  - **Nickname** : Prapai *(You can also call me Vane, Noshika or Wildflower)*
- - **Hobbies** : Listening to music, Watching movies and Writing
+ - **Hobbies** : Listening to music, Watching movies, Writing, Photography
  - **Education** : Year 2 *(Grade 11)* Student studying Computer Engineering at [KOSEN-KMITL](http://www.kosen.kmitl.ac.th/en)
  - **Human Language** : ไทย, English, 日本語
  - **Programming Language** : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="20"/> <img src="https://img.icons8.com/color/512/c-programming.png" width="20" title="I'm learning C !" />
