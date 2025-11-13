@@ -19,7 +19,7 @@
      alt="Discord" 
      title="For discord, add me by the given username!" />
 [![Letterboxd](https://img.shields.io/badge/LETTERBOXD-kokorononaka-78c922?style=plastic&labelColor=21201e&logo=letterboxd)](https://boxd.it/cOa6R)
-[![Tiktok](https://img.shields.io/badge/Tiktok-Music%20Review%20%7C%20I%20did%20with%20my%20friends-e155c7?style=plastic&labelColor=21201e&logo=tiktok)](https://www.tiktok.com/@ratingbytheoomfs)
+[![Tiktok](https://img.shields.io/badge/Tiktok-Check%20Out%Music%20Review%20%I%20did%20with%20my%20friends-e155c7?style=plastic&labelColor=21201e&logo=tiktok)](https://www.tiktok.com/@ratingbytheoomfs)
 
 
 # Stats <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f635_200d_1f4ab/512.gif" width="40" />
