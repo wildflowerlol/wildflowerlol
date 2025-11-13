@@ -12,14 +12,15 @@
  - **Contacts** : <a href="mailto:nontrattanapittayaporn@gmail.com">Personal Email</a> / <a href="mailto:67991042@kmitl.ac.th">School Email</a> *(or Instagram Direct Message)*
 
  
-# Social Profile <img src="meowmeow.gif" width="45" title="Meow!" />
+# Social Profile and Links ! <img src="meowmeow.gif" width="45" title="Meow!" />
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-silleh.silleh-f672ff?style=plastic&labelColor=21201e&logo=instagram)](https://www.instagram.com/silleh.silleh/)
 [![Reddit](https://img.shields.io/badge/REDDIT-noshika0127-ff5900?style=plastic&labelColor=21201e&logo=reddit)](https://www.reddit.com/user/noshika0127/)
 <img src="https://img.shields.io/badge/DISCORD-noshika12%232045-blue?style=plastic&labelColor=21201e&logo=discord" 
      alt="Discord" 
      title="For discord, add me by the given username!" />
 [![Letterboxd](https://img.shields.io/badge/LETTERBOXD-kokorononaka-78c922?style=plastic&labelColor=21201e&logo=letterboxd)](https://boxd.it/cOa6R)
-[![](https://img.shields.io/badge/Tiktok-Check%20Out%20Music%20Review%20%7C%20I%20did%20with%20my%20friends-ff007e?style=plastic&labelColor=21201e&logo=tiktok)](https://www.tiktok.com/@ratingbytheoomfs)
+[![Tiktok](https://img.shields.io/badge/Tiktok-Check%20Out%20Music%20Review%20%7C%20I%20did%20with%20my%20friends-ff007e?style=plastic&labelColor=21201e&logo=tiktok)](https://www.tiktok.com/@ratingbytheoomfs)
+[![Scratch Project](https://img.shields.io/badge/Scratch-Check%20Out%20My%20Grade%209%20Project%20!-d4af11?style=plastic&labelColor=21201e&logo=scratch)](https://scratch.mit.edu/projects/973450885/)
 
 
 # Stats <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f635_200d_1f4ab/512.gif" width="40" />
