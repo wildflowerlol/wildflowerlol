@@ -13,7 +13,7 @@
 
  
 # Social Profile and Links ! <img src="meowmeow.gif" width="45" title="Meow!" />
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-silleh.silleh-f672ff?style=plastic&labelColor=21201e&logo=instagram)](https://www.instagram.com/silleh.silleh/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-meowamoo-f672ff?style=plastic&labelColor=21201e&logo=instagram)](https://www.instagram.com/meowamoo/)
 [![Reddit](https://img.shields.io/badge/REDDIT-noshika0127-ff5900?style=plastic&labelColor=21201e&logo=reddit)](https://www.reddit.com/user/noshika0127/)
 <img src="https://img.shields.io/badge/DISCORD-noshika12%232045-blue?style=plastic&labelColor=21201e&logo=discord" 
      alt="Discord" 
